@@ -1,16 +1,7 @@
-<<<<<<< HEAD
 django
 gunicorn
 whitenoise
 psycopg2-binary
 requests
 urllib3
-=======
-django
-gunicorn
-whitenoise
-psycopg2-binary
-requests
-urllib3
->>>>>>> d0b6b8d3e960d3b8ae1903c921a5bfc7ef134328
 python-dotenv
